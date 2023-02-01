@@ -2,15 +2,37 @@
 
 </p>
 
+
+
+
+
+![Visitor Count](https://profile-counter.glitch.me/{likachu99}/count.svg)
+
 <h4 align="center">
 💻 aspiring web developer |  :apple:  Dietitian  |  🌱 connect <a href="https://www.linkedin.com/in/li-chen-41174b11a" target="_blank"> LinkedIn </a> | 
-   💬 Email 
+   💬 [Email]
 
 </h4>
 
+![food](https://www.lalpathlabs.com/blog/wp-content/uploads/2019/01/Fruits-and-Vegetables.jpg)
+
+[Email](mailto:likachu@gmail.com)
+
+
+
+
+
+
+<!--
+
+![a building](https://github.com/zackkrida/zackkrida/raw/master/44650035.jpg)
+
+Hi there, I'm zack! I'm a full-stack developer currently working on the front end of https://search.creativecommons.org and managing the open-source community around [vocabulary](https://github.com/creative-commons/vocabulary). 
+
+Email me at [sayhi@zackkrida.com](mailto:sayhi@zackkrida.com) to get in touch. Thanks!
 
   
- 
+ -->
 
   
 
