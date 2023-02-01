@@ -1,16 +1,18 @@
 
-### Hi there 👋, My name is Lily
-#### I am a dietitian and aspiring web developer
+### Hi there 👋
+#### 
 </p>
 
-
+<p></p>
 Skills: JS/ REACT / HTML / CSS
 
-
+<p></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=likachu99)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile views](https://gpvc.arturio.dev/likachu99)  
+
+
 
 
 
@@ -32,6 +34,9 @@ Skills: JS/ REACT / HTML / CSS
 
 
 
+
+
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likachu99)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -44,7 +49,9 @@ Skills: JS/ REACT / HTML / CSS
 - 🔭
 
 </p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likachu99)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=likachu99&show_icons=true&count_private=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=likachu99)  
 -->
 
 
